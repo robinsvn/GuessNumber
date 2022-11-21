@@ -1,0 +1,8 @@
+C:\Users\CRINGELORD\Documents\2ITA\Utvikling\1. Termin\HalveringsMetode\HalveringsMetode\bin\Debug\HalveringsMetode.exe.config
+C:\Users\CRINGELORD\Documents\2ITA\Utvikling\1. Termin\HalveringsMetode\HalveringsMetode\bin\Debug\HalveringsMetode.exe
+C:\Users\CRINGELORD\Documents\2ITA\Utvikling\1. Termin\HalveringsMetode\HalveringsMetode\bin\Debug\HalveringsMetode.pdb
+C:\Users\CRINGELORD\Documents\2ITA\Utvikling\1. Termin\HalveringsMetode\HalveringsMetode\obj\Debug\HalveringsMetode.csproj.AssemblyReference.cache
+C:\Users\CRINGELORD\Documents\2ITA\Utvikling\1. Termin\HalveringsMetode\HalveringsMetode\obj\Debug\HalveringsMetode.csproj.SuggestedBindingRedirects.cache
+C:\Users\CRINGELORD\Documents\2ITA\Utvikling\1. Termin\HalveringsMetode\HalveringsMetode\obj\Debug\HalveringsMetode.csproj.CoreCompileInputs.cache
+C:\Users\CRINGELORD\Documents\2ITA\Utvikling\1. Termin\HalveringsMetode\HalveringsMetode\obj\Debug\HalveringsMetode.exe
+C:\Users\CRINGELORD\Documents\2ITA\Utvikling\1. Termin\HalveringsMetode\HalveringsMetode\obj\Debug\HalveringsMetode.pdb
